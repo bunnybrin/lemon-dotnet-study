@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lemon.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+395d6cc89895625ff8cd3d76ad3bbad71733bd7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lemon.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lemon.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
