@@ -1,0 +1,12 @@
+/Users/bunnybrin/Documents/projects/rider/Lemon/backend/src/Lemon.Domain/bin/Debug/net10.0/Lemon.Domain.deps.json
+/Users/bunnybrin/Documents/projects/rider/Lemon/backend/src/Lemon.Domain/bin/Debug/net10.0/Lemon.Domain.dll
+/Users/bunnybrin/Documents/projects/rider/Lemon/backend/src/Lemon.Domain/bin/Debug/net10.0/Lemon.Domain.pdb
+/Users/bunnybrin/Documents/projects/rider/Lemon/backend/src/Lemon.Domain/obj/Debug/net10.0/Lemon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bunnybrin/Documents/projects/rider/Lemon/backend/src/Lemon.Domain/obj/Debug/net10.0/Lemon.Domain.AssemblyInfoInputs.cache
+/Users/bunnybrin/Documents/projects/rider/Lemon/backend/src/Lemon.Domain/obj/Debug/net10.0/Lemon.Domain.AssemblyInfo.cs
+/Users/bunnybrin/Documents/projects/rider/Lemon/backend/src/Lemon.Domain/obj/Debug/net10.0/Lemon.Domain.csproj.CoreCompileInputs.cache
+/Users/bunnybrin/Documents/projects/rider/Lemon/backend/src/Lemon.Domain/obj/Debug/net10.0/Lemon.Domain.sourcelink.json
+/Users/bunnybrin/Documents/projects/rider/Lemon/backend/src/Lemon.Domain/obj/Debug/net10.0/Lemon.Domain.dll
+/Users/bunnybrin/Documents/projects/rider/Lemon/backend/src/Lemon.Domain/obj/Debug/net10.0/refint/Lemon.Domain.dll
+/Users/bunnybrin/Documents/projects/rider/Lemon/backend/src/Lemon.Domain/obj/Debug/net10.0/Lemon.Domain.pdb
+/Users/bunnybrin/Documents/projects/rider/Lemon/backend/src/Lemon.Domain/obj/Debug/net10.0/ref/Lemon.Domain.dll
