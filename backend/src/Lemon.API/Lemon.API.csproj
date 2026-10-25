@@ -10,4 +10,10 @@
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.13"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Lemon.Application\Lemon.Application.csproj" />
+      <ProjectReference Include="..\Lemon.Domain\Lemon.Domain.csproj" />
+      <ProjectReference Include="..\Lemon.Infra\Lemon.Infra.csproj" />
+    </ItemGroup>
+
 </Project>
