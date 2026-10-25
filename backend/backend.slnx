@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Lemon.Application/Lemon.Application.csproj" />
+  <Project Path="Lemon.Domain/Lemon.Domain.csproj" />
+  <Project Path="Lemon.Infra/Lemon.Infra.csproj" />
+  <Project Path="src/Lemon.API/Lemon.API.csproj" />
+</Solution>

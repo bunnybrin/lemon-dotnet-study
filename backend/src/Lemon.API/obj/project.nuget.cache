@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xMhkLtSEpx4=",
+  "success": true,
+  "projectFilePath": "/Users/bunnybrin/Documents/projects/rider/Lemon/backend/src/Lemon.API/Lemon.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/bunnybrin/.nuget/packages/microsoft.aspnetcore.openapi/10.0.13/microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "/Users/bunnybrin/.nuget/packages/microsoft.openapi/2.12.2/microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
